@@ -11,18 +11,18 @@ namespace PeopleViewer.Controllers
 
         public IActionResult UseConcreteType()
         {
-            // TODO: Get data
+            Person[] people = reader.GetPeople();
 
             ViewData["Title"] = "Using Concrete Type";
-            return View("Index", null);
+            return View("Index", people);
         }
 
         public IActionResult UseAbstractType()
         {
-            // TODO: Get data
+            IEnumerable<Person> people = reader.GetPeople();
 
             ViewData["Title"] = "Using Abstract Type";
-            return View("Index", null);
+            return View("Index", people);
         }
     }
 }

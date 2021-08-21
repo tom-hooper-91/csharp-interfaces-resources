@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AF446BBC-0A4B-481C-B185-C40ACBDC28FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="People.Library/PersonReader.cs">
+    <Files>
+      <File FileName="PeopleViewer/Controllers/PeopleController.cs" Line="25" Column="40" />
+      <File FileName="People.Library/PersonReader.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FutureProofing" expanded="True">
+            <Node name="People.Library" expanded="True" />
+            <Node name="PeopleViewer" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PeopleViewer PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.ItemProperties.People.Service PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D9161871-8793-4A4C-855C-8F1916B33F99}|Default">
+  <MonoDevelop.Ide.ItemProperties.Readers.PersonReader.Service FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonReader.Interface/PersonReader.Service/Class1.cs">
+    <Files>
+      <File FileName="PersonReader.Interface/IPersonReader.cs" Line="7" Column="23" />
+      <File FileName="PersonReader.Interface/Person.cs" Line="19" Column="10" />
+      <File FileName="PersonReader.Interface/PersonReader.Service/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Extensibility" expanded="True">
+            <Node name="Readers" expanded="True">
+              <Node name="PersonReader.Interface" expanded="True" />
+              <Node name="PersonReader.Service" expanded="True">
+                <Node name="Class1.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Services" expanded="True" />
+            <Node name="PeopleViewer" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Services.People.Service PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PeopleViewer PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
