@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{D9161871-8793-4A4C-855C-8F1916B33F99}|Default">
   <MonoDevelop.Ide.ItemProperties.Readers.PersonReader.Service FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PersonReader.Interface/PersonReader.Service/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PeopleViewer/Controllers/PeopleController.cs">
     <Files>
-      <File FileName="PersonReader.Interface/IPersonReader.cs" Line="7" Column="23" />
+      <File FileName="PersonReader.Interface/IPersonReader.cs" Line="3" Column="11" />
       <File FileName="PersonReader.Interface/Person.cs" Line="19" Column="10" />
-      <File FileName="PersonReader.Interface/PersonReader.Service/Class1.cs" Line="1" Column="1" />
+      <File FileName="PersonReader.Interface/PersonReader.Service/Class1.cs" Line="26" Column="47" />
+      <File FileName="PeopleViewer/Controllers/PeopleController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,11 +14,19 @@
             <Node name="Readers" expanded="True">
               <Node name="PersonReader.Interface" expanded="True" />
               <Node name="PersonReader.Service" expanded="True">
-                <Node name="Class1.cs" selected="True" />
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
               </Node>
             </Node>
             <Node name="Services" expanded="True" />
-            <Node name="PeopleViewer" expanded="True" />
+            <Node name="PeopleViewer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PeopleController.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
